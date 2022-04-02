@@ -7,17 +7,17 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jack O\'Regan Kenny\'s Site',
-  domain: 'jackoregankenny.com',
-  author: 'Jack O\'Regan Kenny",
+  name: 'Transitive Bullshit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: "Jack O\'Regan Kenny\'s personal website",
+  description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'jackoregankenny',
-  github: 'jackoregankenny',
-  linkedin: 'jackoregankenny',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

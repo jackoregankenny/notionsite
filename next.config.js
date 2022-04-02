@@ -12,7 +12,7 @@ module.exports = withBundleAnalyzer({
       'images.unsplash.com',
       'pbs.twimg.com',
       'abs.twimg.com',
-      'jackoregankenny.com'
+      'transitivebullsh.it'
     ],
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,
