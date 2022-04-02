@@ -7,7 +7,7 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Jack O'Regan Kenny ",
+  name: "Jack O'Regan Kenny "
   domain: 'jackoregankenny.com',
   author: "Jack O'Regan Kenny",
 
